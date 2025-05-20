@@ -22,9 +22,9 @@ OBJETIVO DO PROJETO
 Fase 1:
 - [ ] Definição de Requisitos.
 - [ ] Definição de Recursos/Skills.
-- [ ] [Bibliotecas/dependências](./doc/dependencies.md).
-- [ ] [Estrutura do projeto](./doc/structure/project.md).
-- [ ] [Rotas da aplicação](./doc/structure/routes.md).
+- [ ] [Bibliotecas/dependências](./docs/dependencies.md).
+- [ ] [Estrutura do projeto](./docs/structure/project.md).
+- [ ] [Rotas da aplicação](./docs/structure/routes.md).
 - [ ] Redação inicial do README.
 
 Fase 2:
