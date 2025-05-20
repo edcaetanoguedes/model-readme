@@ -1,5 +1,5 @@
 <h1>🍕 Nome do Projeto
-    <img src="https://img.shields.io/static/v1?label=STATUS&message=EM CONSTRUÇÃO&color=GREEN&style=for-the-badge" width="150" height="25" />
+    <img src=" https://img.shields.io/badge/EM CONSTRUÇÃO-00FF00" width="150" height="25" />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=NOME DO REPOSITORIO&" />
 </h1>
 
