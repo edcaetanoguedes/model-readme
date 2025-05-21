@@ -4,7 +4,7 @@
 ## Instalação rápida
 
 - Execute `npm install -g commitizen; commitizen init cz-conventional-changelog --save-dev --save-exact`.
-- Execute `npm install --save-dev prettier @commitlint/cli @commitlint/config-conventional lint-staged husky@8.0.0`.
+- Execute `npm install  -g commitizen --save-dev prettier @commitlint/cli @commitlint/config-conventional lint-staged husky@8.0.0`.
 
 ## Roadmap
 
@@ -33,6 +33,10 @@ module.exports = {
 > 
 > Execute `commitizen init cz-conventional-changelog --save-dev --save-exact`.  
 > No arquivo **commitlint.config.js** certifique-se de constar:
+```
+module.exports = { extends: ["@commitlint/config-conventional"] };
+```
+> No **package.json** certifique-se de constar:
 ```
 {
   ...scripts,
