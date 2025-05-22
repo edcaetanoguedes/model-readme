@@ -1,5 +1,5 @@
 <h1>🍕 Nome do Projeto
-    <img src=" https://img.shields.io/badge/EM CONSTRUÇÃO-00FF00" width="150" height="25" />
+    <img src=" https://img.shields.io/badge/Status-EM_CONSTRUÇÃO-00FF00" width="150" height="25" />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=NOME DO REPOSITORIO&" />
 </h1>
 
@@ -28,6 +28,17 @@ Fase 1:
 - [ ] Redação inicial do README.
 
 Fase 2:
+```
+Roteiro de pré-install/config
+
+- Instalação do Framework (se for usar algum)
+- `git init`: inicialização do git/vincular o repositório remoto e local.
+- `npm init`: inicializando o **package.json** (se for começar tudo no modo raiz kk)
+- Instalação e configuração das ferramentas de revisão e padronização de código e commit
+- Instalação e configuração das ferramentas para testes (cypress, cucumber, chai, etc)
+
+**EXCLUIR DEPOIS
+```
 - [ ] Implementação.
 
 Fase 3:
@@ -70,20 +81,13 @@ Fase 4:
   - `npm run test:rest` Roda somente os testes de api, no caso com a tag @rest
 
 ## Commits
-Padronização de Commits
 
 - `feat`: nova funcionalidade
-
 - `fix`: correção de bug
-
-- `chore`: tarefas gerais que não afetam o código em produção (configs, linter)
-
+- `chore`: tarefas gerais que não afetam o código em produção (install, configs, linter)
 - `docs`: mudanças na documentação
-
 - `style`: formatação, ponto e vírgula, espaços em branco, etc.
-
 - `refactor`: refatoração de código (sem nova funcionalidade ou bug fix)
-
 - `test`: adição ou ajuste de testes
 
 ## Licença
