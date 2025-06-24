@@ -1,7 +1,6 @@
-<h1>🍕 Nome do Projeto
-    <img src=" https://img.shields.io/badge/Status-EM_CONSTRUÇÃO-00FF00" width="150" height="25" />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=NOME DO REPOSITORIO&" />
-</h1>
+# Nome do Projeto
+
+<img src="https://img.shields.io/badge/Status-EM_CONSTRUÇÃO-00FF00" width="150" height="25" />
 
 Autor [Ednaldo Guedes](https://github.com/edcaetanoguedes)
 
@@ -11,15 +10,15 @@ DESCRIÇÃO DO PROJETO
 
 OBJETIVO DO PROJETO
 
-### 🔥 Funcionalidades
+## Funcionalidades
 
 - Funcionalidade 1
 - Funcionalidade 2
 - Funcionalidade 3
 
-### Estágios do projeto
+## Estágios do projeto
 
-Fase 1:
+Fase 1:  
 - [ ] Definição de Requisitos.
 - [ ] Definição de Recursos/Skills.
 - [ ] [Bibliotecas/dependências](./docs/dependencies.md).
@@ -27,7 +26,7 @@ Fase 1:
 - [ ] [Rotas da aplicação](./docs/structure/routes.md).
 - [ ] Redação inicial do README.
 
-Fase 2:
+Fase 2:  
 ```
 Roteiro de pré-install/config
 
@@ -41,10 +40,10 @@ Roteiro de pré-install/config
 ```
 - [ ] Implementação.
 
-Fase 3:
+Fase 3:  
 - [ ] Testes automatizados.
 
-Fase 4:
+Fase 4:  
 - [ ] Relatório: Análise/Revisão do projeto.
 
 ## Instalação
@@ -53,8 +52,8 @@ Fase 4:
 
 ### Backend
 - ### Clone do repositório
-  - Execute `git clone https://github.com/edcaetanoguedes/<NOME DO REPOSITÓRIO>.git`.
-  - Acesse a pasta do repositório `cd manager-tasks-backend`.
+  - Execute `git clone https://github.com/edcaetanoguedes/<NOME_DO_REPOSITORIO>.git`.
+  - Acesse a pasta do repositório `cd <NOME_DO_REPOSITORIO>`.
   - Execute `npm install` para instalar as dependências.
 - ### Rodando o projeto
   - Execute `npm run dev`.
@@ -62,8 +61,8 @@ Fase 4:
 
 ### Frontend
 - ### Clone do repositório 
-  - Execute `git clone https://github.com/edcaetanoguedes/<NOME DO REPOSITÓRIO>.git`.
-  - Acesse a pasta do repositório `cd manager-tasks-frontend`.
+  - Execute `git clone https://github.com/edcaetanoguedes/<NOME_DO_REPOSITORIO>.git`.
+  - Acesse a pasta do repositório `cd <NOME_DO_REPOSITORIO>`.
   - Execute `npm install` para instalar as dependências.
 - ### Rodando o projeto
   - Execute `npm run dev`.
@@ -71,8 +70,8 @@ Fase 4:
 
 - ### Testes:
   - ### Clone do repositório 
-    - Execute `git clone https://github.com/edcaetanoguedes/<NOME DO REPOSITÓRIO>.git`.
-    - Acesse a pasta do repositório `cd manager-tasks-automated-tests`.  
+    - Execute `git clone https://github.com/edcaetanoguedes/<NOME_DO_REPOSITORIO>.git`.
+    - Acesse a pasta do repositório `cd <NOME_DO_REPOSITORIO>`.  
     - Execute `npm install` para instalar as dependências.
   - ### Rodando os testes
   - `npm run test:cy:open` Roda a interface.
@@ -109,7 +108,7 @@ Fase 4:
 
 ## Licença
 
-Este projeto está sob licensa MIT - veja o arquivo [LICENSE.md](https://github.com/edcaetanoguedes/NOME_DO_REPOSITÓRIO/license)
+Este projeto está sob licensa MIT - veja o arquivo [LICENSE.md](https://github.com/edcaetanoguedes/<NOME_DO_REPOSITORIO>/license)
 
 ## Agradecimentos
 
